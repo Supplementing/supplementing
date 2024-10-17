@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there, I'm Mason 👋
 
-<!--
-**Supplementing/supplementing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Web & Mobile Expert
 
-Here are some ideas to get you started:
+Passionate full stack engineer with ~6 years of professional experience building scalable web and mobile applications. Currently exploring new opportunities, so if you're looking for someone to make a difference (and crack horribly bad dad jokes along the way), give me a shout! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm up to
+
+- 🔭 Working on a crisis management app, an offroad exploration and social connection app, and many other smaller projects (check my repos for a sneak peak!)
+- 🌱 Deepening my knowledge of React and Next.js to match my extensive experience in Vue & Nuxt.js
+- 👯 Looking to collaborate on innovative web and mobile projects
+
+### 📫 How to reach me
+
+[LinkedIn](https://www.linkedin.com/in/mason-herron)
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat about web development!
